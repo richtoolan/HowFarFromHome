@@ -7,7 +7,7 @@ It's a project I put together to learn SwiftUI, It's by no means good code yet, 
 <img src="/images/app_screen.png" width="200" />
 
 ## Things I'd like to do!
-👉 Persistance of your location
-👉 Naming and persistance of alternative locations
-👉 Better handling of users current location
-👉 Local alerts if you leave your area
+👉 Persistance of your location  
+👉 Naming and persistance of alternative locations  
+👉 Better handling of users current location  
+👉 Local alerts if you leave your area  
