@@ -41,7 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D210223F24558B8F00DBAB40 /* How F.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "How F.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D210223F24558B8F00DBAB40 /* How Far From Home?.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "How Far From Home?.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D210224224558B8F00DBAB40 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D210224424558B8F00DBAB40 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D210224624558B8F00DBAB40 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -101,7 +101,7 @@
 		D210224024558B8F00DBAB40 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D210223F24558B8F00DBAB40 /* How F.app */,
+				D210223F24558B8F00DBAB40 /* How Far From Home?.app */,
 				D210225524558B9200DBAB40 /* 2KMFromHomeTests.xctest */,
 				D210226024558B9200DBAB40 /* 2KMFromHomeUITests.xctest */,
 			);
@@ -171,7 +171,7 @@
 			);
 			name = 2KMFromHome;
 			productName = 2KMFromHome;
-			productReference = D210223F24558B8F00DBAB40 /* How F.app */;
+			productReference = D210223F24558B8F00DBAB40 /* How Far From Home?.app */;
 			productType = "com.apple.product-type.application";
 		};
 		D210225424558B9200DBAB40 /* 2KMFromHomeTests */ = {
@@ -469,7 +469,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.test.-KMFromHome";
-				PRODUCT_NAME = "How F";
+				PRODUCT_NAME = "How Far From Home?";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -490,7 +490,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.test.-KMFromHome";
-				PRODUCT_NAME = "How F";
+				PRODUCT_NAME = "How Far From Home?";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
